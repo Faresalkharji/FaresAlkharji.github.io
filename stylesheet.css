@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-    background-image: url("IMAGES/purple.jpeg");
+    background-image: url();
     background-size: cover;
     font-family: 'unbounded';
 }
@@ -130,4 +130,7 @@ h1, h2, h3 {
     background-image: url("IMAGES/pennygif.gif");
     width: 75%;
     height: 60%;
+}
+.form {
+    margin-top: -700px;
 }
