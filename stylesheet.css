@@ -111,10 +111,11 @@ h1, h2, h3 {
     border-color: black;
     background-color: white;
     color: black;
-    width: 100%;
-    margin: 10px;
-    text-align: center;
-    line-height: 20px;
+    font-size: 24px;
+    width: 50%;
+    margin: 80px;
+    text-align: left;
+    line-height: 50px;
 }
 
 .footer {
@@ -126,11 +127,6 @@ h1, h2, h3 {
     margin-top: 800px;
 }
 
-.slider-image {
-    background-image: url("IMAGES/pennygif.gif");
-    width: 75%;
-    height: 60%;
-}
 .form {
     margin-top: -700px;
 }
